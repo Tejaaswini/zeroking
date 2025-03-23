@@ -70,8 +70,6 @@ You’ll need:
 
 | Resign                            | Draw                              |
 |----------------------------------|-----------------------------------|
-| ![resign](https://i.imgur.com/fXzT4eo.jpg) | ![draw](https://i.imgur.com/TrAArbn.jpg) |
-
 ---
 
 ## 🛣️ Roadmap
